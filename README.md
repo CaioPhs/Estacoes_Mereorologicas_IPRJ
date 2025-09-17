@@ -1,6 +1,5 @@
 # Projeto: CRUD de Estações Meteorológicas com Laravel
 
-Bem-vindo ao projeto de Estações Meteorológicas, um sistema simples de **CRUD (Create, Read, Update, Delete)** desenvolvido em Laravel.
 
 Este projeto foi criado para demonstrar a implementação de um CRUD básico, permitindo o gerenciamento de estações meteorológicas com os seguintes dados: nome, latitude e longitude.
 
@@ -65,6 +64,4 @@ O sistema estará disponível em `http://127.0.0.1:8000/estacoes`.
 
 ---
 
-### Como Contribuir
 
-Fique à vontade para abrir uma _issue_ ou enviar um _pull request_ para melhorar o projeto.
