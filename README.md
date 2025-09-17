@@ -29,7 +29,7 @@ Siga os passos abaixo para configurar e rodar o projeto em seu ambiente local.
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/laravel-estacoes-crud.git](https://github.com/seu-usuario/laravel-estacoes-crud.git)
+    git clone https://github.com/CaioPhs/Estacoes_Mereorologicas_IPRJ.git
     cd laravel-estacoes-crud
     ```
 
